@@ -6,9 +6,9 @@
 
 **Helping small businesses reclaim 20+ hours/week through intelligent automation**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Projects-00D9FF?style=for-the-badge)](YOUR_PORTFOLIO_URL)
-[![Book Audit](https://img.shields.io/badge/📅_Free_Audit-Book_Call-10b981?style=for-the-badge)](YOUR_CALENDLY_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Projects-00D9FF?style=for-the-badge)](https://wajid-javed-portfolio.vercel.app/)
+[![Book Audit](https://img.shields.io/badge/📅_Free_Audit-Book_Call-10b981?style=for-the-badge)](https://calendly.com/wajidjaved160/30min)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wajid-javed160/)
 
 </div>
 
@@ -176,7 +176,7 @@ class AutomationSystemDesign:
 
 <div align="center">
 
-**📅 [Book a Free Workflow Audit](YOUR_CALENDLY_URL)** | **🌐 [View Full Portfolio](YOUR_PORTFOLIO_URL)**
+**📅 [Book a Free Workflow Audit](https://calendly.com/wajidjaved160/30min)** | **🌐 [View Full Portfolio](https://wajid-javed-portfolio.vercel.app/)**
 
 </div>
 
@@ -186,8 +186,8 @@ class AutomationSystemDesign:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajid Javed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAajidJaved&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -259,9 +259,9 @@ I'm currently accepting **new automation projects** for Q1 2026.
 - Projects under $1,000
 - Enterprise-scale implementations (yet)
 
-[![Book Free Audit](https://img.shields.io/badge/📅_BOOK_FREE_AUDIT-10b981?style=for-the-badge&logoColor=white)](YOUR_CALENDLY_URL)
-[![View Portfolio](https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Book Free Audit](https://img.shields.io/badge/📅_BOOK_FREE_AUDIT-10b981?style=for-the-badge&logoColor=white)](https://calendly.com/wajidjaved160/30min)
+[![View Portfolio](https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white)](https://wajid-javed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-javed160/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
 </div>
