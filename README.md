@@ -11,7 +11,7 @@ Currently pursuing advanced Agentic AI through the [Agent Factory](https://agent
 - **Multi-Agent Systems** — Orchestrating AI agents that collaborate to solve complex business problems
 - **AI Automation Workflows** — End-to-end N8N workflows that eliminate manual operations
 - **RAG & LLM Applications** — Retrieval-augmented systems for intelligent knowledge retrieval
-- **AI-Powered Customer Service** — Agents handling customer queries with near-instant response times
+- **OSINT & Intelligence Tools** — Applications for open-source intelligence and data aggregation
 
 ---
 
@@ -40,10 +40,9 @@ Currently pursuing advanced Agentic AI through the [Agent Factory](https://agent
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [PriceOye Customer Service Agent](https://github.com/Wajid160/PriceOye-Customer-Service-Agent) | AI agent for automated customer support with intelligent query resolution | N8N, Claude AI, RAG |
-| [AI Automation Systems](https://github.com/Wajid160/AI-Automation) | Collection of production AI automation workflows and patterns | N8N, Python, APIs |
-| [Agentic AI Projects](https://github.com/Wajid160/AgenticAI_Projects) | Multi-agent AI systems and experiments | Python, LangChain, LLMs |
-| [Pitch Crafter Agent](https://github.com/Wajid160/Pitch-Crafter-Agent) | AI agent that generates tailored business pitches | Python, Claude AI |
+| [Khoji — OSINT People Search](https://github.com/Wajid160/Khoji) | Advanced OSINT tool that finds people across LinkedIn, Facebook & X from a single query | JavaScript, N8N, Web Scraping |
+| [AI E-commerce Support Agent](https://github.com/Wajid160/AI-Ecommerce-Support-Agent) | Autonomous AI agent for Shopify — handles product search, orders, returns & support with semantic understanding | N8N, Claude AI, RAG, Shopify API |
+| [Agent Factory — Digital FTEs](https://github.com/Wajid160/AgentFactory-FTEs) | Building production-ready Digital Full-Time Employees using spec-driven AI-native development | Python, MCP, Claude AI, Docker |
 
 ---
 
