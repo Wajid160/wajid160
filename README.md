@@ -43,6 +43,8 @@ Currently pursuing advanced Agentic AI through the [Agent Factory](https://agent
 | [Khoji — OSINT People Search](https://github.com/Wajid160/Khoji) | Advanced OSINT tool that finds people across LinkedIn, Facebook & X from a single query | JavaScript, N8N, Web Scraping |
 | [AI E-commerce Support Agent](https://github.com/Wajid160/AI-Ecommerce-Support-Agent) | Autonomous AI agent for Shopify — handles product search, orders, returns & support with semantic understanding | N8N, Claude AI, RAG, Shopify API |
 | [Agent Factory — Digital FTEs](https://github.com/Wajid160/AgentFactory-FTEs) | Building production-ready Digital Full-Time Employees using spec-driven AI-native development | Python, MCP, Claude AI, Docker |
+| [Hisaab — WhatsApp Bookkeeping Agent](https://github.com/Wajid160/hisaab-whatsapp-agent) | AI-powered WhatsApp bookkeeping assistant for kiryana shops. Logs udhaar, payments, and balances via text/voice notes in Roman Urdu. | N8N, Gemini 2.5 Flash, Supabase, WhatsApp API |
+| [AMS — Automated Attendance System](https://github.com/Wajid160/smart-school-os) | Production-ready offline-first PWA for school attendance scanning, handling offline queuing and intelligent routing. | PWA, N8N, Supabase PostgreSQL |
 
 ---
 
